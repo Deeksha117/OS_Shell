@@ -10,3 +10,6 @@ with the output format -
 3. Implementation of split+tac Linux shell command,
 with the output format -
 user$./a.out <source dir> <path to destination dir> <#lines>
+4. Implementation of Linux shell ls command
+with the output format-
+user$./a.out ls [-options] [filename]
